@@ -5,23 +5,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

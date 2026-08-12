@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->

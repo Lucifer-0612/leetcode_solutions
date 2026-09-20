@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

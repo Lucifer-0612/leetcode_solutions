@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -195,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

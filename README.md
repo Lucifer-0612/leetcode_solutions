@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0200-number-of-islands) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -222,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

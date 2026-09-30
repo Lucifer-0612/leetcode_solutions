@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0078-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |

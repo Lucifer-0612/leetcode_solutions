@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer

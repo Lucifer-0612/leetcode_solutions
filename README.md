@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1020-number-of-enclaves) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0856-score-of-parentheses) |

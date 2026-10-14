@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3525-find-x-value-of-array-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |

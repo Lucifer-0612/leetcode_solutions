@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Sliding Window
 |  |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lucifer-0612/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
